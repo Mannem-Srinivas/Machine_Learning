@@ -1,4 +1,4 @@
-# Medical Cost Prediction using Linear Regression
+# Medical Insurance Cost Prediction using Linear Regression
 
 ## Overview
 This notebook demonstrates how to build a linear regression model to predict medical insurance costs using a dataset of patient information.
